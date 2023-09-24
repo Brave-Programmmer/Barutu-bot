@@ -44,7 +44,7 @@ client.on('messageCreate', message => {
 //     });
 // }
 
-client.login("MTE1NTE0NjE3NzY1NDgzNzM2MA.GkeYzN._LqKOx_-GwZRpFxxFTTlqUQ_PT1nSHuZuI1tUc")
+client.login("MTE1NTE0NjE3NzY1NDgzNzM2MA.Gx0Foy.g4mCabrWcSJleQpn2dc__kACQct2dgJ1lh-PWY")
 // const app = express()
 // const data ={};
 // app.set('view-engine', 'ejs')
